@@ -57,5 +57,5 @@ These are all the functions which I used to populate the fields. I then, made a 
 
 ![image](https://github.com/AdamH489/Coffee-Sales/assets/122322345/4a870bf8-259f-48a8-bc50-4ef160475fb1)
 
-The line graph and bar charts were made with the use of 'pivot tables' and I enabled all the slicers to affect both of the grpahs which I made. 
+The line graph and bar charts were made with the use of 'pivot tables' and I enabled all the slicers to affect both of the graphs which I made. 
 
